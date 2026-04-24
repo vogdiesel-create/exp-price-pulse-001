@@ -1,17 +1,35 @@
-# PricePulse - Competitive Price Intelligence
+# PricePulse
 
-**Know when your competitors change prices. Instantly.**
+**Competitive price intelligence for e-commerce. Know when competitors change prices.**
 
-Monitor competitor pricing across Amazon, Walmart, and niche sites.
+## The Problem
+
+E-commerce sellers need to monitor competitor pricing across marketplaces but doing it manually is impossible at scale. Price changes happen daily and missing them means lost sales or margin.
+
+## The Solution
+
+PricePulse monitors competitor prices across Amazon, Shopify, and custom sites. Get alerts on price changes, track historical trends, and identify optimal pricing windows.
 
 ## Features
-- Track unlimited competitor products
-- Real-time price change alerts
-- Historical price trend charts
-- Optimal price point recommendations
-- MAP violation detection
+
+- Multi-marketplace price monitoring
+- Real-time change alerts
+- Historical price tracking and trends
+- Optimal pricing window identification
+- Competitor catalog mapping
 
 ## Pricing
-Free tier: 10 products. Pro: $49/mo for 500 products.
 
-**[Join the Waitlist](https://vogdiesel-create.github.io/exp-price-pulse-001/)**
+**$49/mo** -- free during early access.
+
+## Get Early Access
+
+[Sign up for early access](https://vogdiesel-create.github.io/exp-price-pulse-001/) and be the first to try it.
+
+## Status
+
+Currently in early access. We're onboarding users and collecting feedback.
+
+---
+
+Built with AI. Tested with real data. Priced for practitioners, not enterprises.

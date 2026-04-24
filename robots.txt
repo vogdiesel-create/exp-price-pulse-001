@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vogdiesel-create.github.io/exp-price-pulse-001/sitemap.xml
